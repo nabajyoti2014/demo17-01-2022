@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dempwebapp007'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BBCFB13EED8407BBAD9C79A794C7638 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12A181AAA97840DE8F0637D3DCA8E6A6 }}
           package: .
